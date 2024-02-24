@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container-fluid {
+    padding-left: 170px;
+}
+
+.herosec {
+    background-color: aqua;
+    width: 100vw;
+    height: 460px;
+    padding: 60px 0px 0px 170px;
+}
+
+
+
+.heading1 {
+    font-size: 40px;
+    font-style: normal;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    Letter-spacing: -.02em;
+    background: linear-gradient(180deg,#4d3bdb 0%,#9747ff 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.p2 {
+    margin-top: -25px;
+}
+
+.herotext p {
+    margin-bottom: 5px;
+}
+
+.searchbox {
+    margin-top: 20px;
+}
+
+.form-control {
+    display: inline;
+    width: 400px;
+    height: 32px;
+}
+
+.btn {
+    width: 100px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  rgb(104, 81, 255);
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.heading2 {
+    margin-top: 13px;
+    font-size: 22px;
+    font-style: normal;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    Letter-spacing: -.02em;
+    background: linear-gradient(180deg,#4d3bdb 0%,#9747ff 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.btn1 {
+    width: 75px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn2 {
+    width: 80px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn3 {
+    width: 70px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn4 {
+    width: 55px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn5 {
+    width: 50px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn6 {
+    width: 90px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn7 {
+    width: 58px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn8 {
+    width: 52px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn9 {
+    width: 80px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn10 {
+    width: 48px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn11 {
+    width: 48px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn12 {
+    width: 85px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btn13 {
+    width: 60px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color:  white;
+     color: rgb(104, 81, 255);;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.btns p {
+    margin-top: 8px;
+}
+
+
+
